@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohund/Project-405-quiz/static/css/main.cbaf5cf1.css",
+    "main.js": "/mohund/Project-405-quiz/static/js/main.33b9eabe.js",
+    "index.html": "/mohund/Project-405-quiz/index.html",
+    "main.cbaf5cf1.css.map": "/mohund/Project-405-quiz/static/css/main.cbaf5cf1.css.map",
+    "main.33b9eabe.js.map": "/mohund/Project-405-quiz/static/js/main.33b9eabe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbaf5cf1.css",
+    "static/js/main.33b9eabe.js"
+  ]
+}
